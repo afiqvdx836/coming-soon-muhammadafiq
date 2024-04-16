@@ -5,7 +5,7 @@ function App() {
   return (
     <section className="container">
       <div className="clock_content">
-        <h1>Entah berapa...</h1>
+        <h1>Kalau boleh nak bising2, macam pokan tampin</h1>
         <h3>muhammadafiq.com</h3>
         <FlipClockCountdown className='flip-clock' 
         to={new Date().getTime() +  730 * 3600 * 1000 + 5000} 
