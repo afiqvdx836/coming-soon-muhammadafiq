@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coming-soon-muhammadafiq/static/css/main.2c9c9474.css",
+    "main.js": "/coming-soon-muhammadafiq/static/js/main.cc801b0d.js",
+    "static/js/453.338692ad.chunk.js": "/coming-soon-muhammadafiq/static/js/453.338692ad.chunk.js",
+    "index.html": "/coming-soon-muhammadafiq/index.html",
+    "main.2c9c9474.css.map": "/coming-soon-muhammadafiq/static/css/main.2c9c9474.css.map",
+    "main.cc801b0d.js.map": "/coming-soon-muhammadafiq/static/js/main.cc801b0d.js.map",
+    "453.338692ad.chunk.js.map": "/coming-soon-muhammadafiq/static/js/453.338692ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9c9474.css",
+    "static/js/main.cc801b0d.js"
+  ]
+}
